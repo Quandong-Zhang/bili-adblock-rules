@@ -1,0 +1,6 @@
+t.bilibili.com##ASIDE[class="left"]
+t.bilibili.com##ASIDE[class="right"]
+search.bilibili.com##DIV[class="trending"]
+search.bilibili.com##UL[class="nav-link-ul mini"]
+www.bilibili.com##UL[class="nav-link-ul"]
+www.bilibili.com##DIV[id="app"]
